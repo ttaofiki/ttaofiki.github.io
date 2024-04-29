@@ -1,8 +1,8 @@
 <h1>Hi, I'm Tijani Taofiki! <br/><a href="https://github.com/ttaofiki">Application Support Specialist</a>, <a href="https://https://www.linkedin.com/in/taofiki-tijani/22782122/">Supply Chain Specialist,System and Database Administrator</a>, <a href="https://public.tableau.com/app/profile/tijani.taofiki/vizzes">Data Analysis Data-Science, Machine-Language, and Artificial Intelligence</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>MDS Maintenance Analysis (NBL Workshops)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
